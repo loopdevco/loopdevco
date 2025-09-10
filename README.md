@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./assets/hero.png" alt="LoopDev - hero" width="100%"/>
+<img src="./assets/hero.svg" alt="LoopDev - hero" width="100%"/>
 
 # 👋 Hola — soy **LoopDev**
 Desarrollador freelance · aprendiz constante en IA · comparto tips, proyectos y el proceso detrás del código.
