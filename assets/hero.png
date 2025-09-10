@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#071028"/>
+      <stop offset="1" stop-color="#0f1230"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#8E44FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)" rx="8"/>
+
+  <!-- circuito estilizado -->
+  <g stroke="rgba(255,255,255,0.06)" stroke-width="2" fill="none">
+    <path d="M60 80 H350 M60 220 H350 M350 80 V220"/>
+    <path d="M850 60 H1140 M850 300 H1140 M850 60 V300"/>
+    <circle cx="350" cy="150" r="6" fill="url(#neon)"/>
+    <circle cx="850" cy="180" r="6" fill="url(#neon)"/>
+  </g>
+
+  <text x="80" y="140" font-family="JetBrains Mono, monospace" font-size="44" fill="url(#neon)">
+    LoopDev — freelance dev · AI · Open-source
+  </text>
+
+  <text x="80" y="190" font-family="Inter, Arial" font-size="20" fill="#AFCFE3">
+    Documentando procesos, proyectos y tips de programación → Repos con demos y guías.
+  </text>
+</svg>
