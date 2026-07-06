@@ -1,47 +1,56 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" width="0" height="0" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=LoopDev&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20software%20that%20survives%20production&descAlignY=58&descSize=18&descColor=c9c9c9" width="100%" alt="LoopDev" />
 
 <br />
 
-<h1>LoopDev</h1>
-
-<h3>Engineering software that survives contact with production.</h3>
-
-<p>
-  <sub>Software a medida · Automatización Empresarial · GIS · GovTech · Ciberseguridad</sub>
-</p>
-
-<br />
-
-<a href="https://loopdev..lat">
-  <img src="https://img.shields.io/badge/Website-loopdev..lat-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-</a>
-<a href="mailto:hola@loopdev..lat">
-  <img src="https://img.shields.io/badge/Contact-hola%40loopdev..lat-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/company/loopdev">
-  <img src="https://img.shields.io/badge/LinkedIn-LoopDev-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A0A0A0&center=true&vCenter=true&width=780&lines=Software+a+medida+para+empresas+y+entidades+p%C3%BAblicas.;Custom+software+for+enterprises+and+public+institutions.;GIS+%C2%B7+GovTech+%C2%B7+FinTech+%C2%B7+Ciberseguridad+%C2%B7+Automatizaci%C3%B3n.;Architecture+first.+Security+by+default.+Built+to+last." alt="Typing SVG" />
 </a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Location-Colombia-1a1a1a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Building-1a1a1a?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Open%20to-Partnerships-1a1a1a?style=flat-square&logo=handshake&logoColor=white" alt="Open to partnerships" />
+<a href="https://loopdev.lat">
+  <img src="https://img.shields.io/badge/WEBSITE-loopdev.lat-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0f0f" alt="Website" />
+</a>
+<a href="mailto:hola@loopdev.lat">
+  <img src="https://img.shields.io/badge/EMAIL-hola%40loopdev.lat-000000?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0f0f0f" alt="Email" />
+</a>
+<a href="https://github.com/loopdevco">
+  <img src="https://img.shields.io/badge/GITHUB-loopdevco-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f0f" alt="GitHub" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/🇨🇴_Colombia-0f0f0f?style=flat-square&labelColor=0f0f0f&color=1a1a1a" alt="Colombia" />
+<img src="https://img.shields.io/badge/Status-Building-0f0f0f?style=flat-square&labelColor=0f0f0f&color=1a1a1a" alt="Status" />
+<img src="https://img.shields.io/badge/Open_to-Partnerships-0f0f0f?style=flat-square&labelColor=0f0f0f&color=1a1a1a" alt="Partnerships" />
 <img src="https://komarev.com/ghpvc/?username=loopdevco&style=flat-square&color=1a1a1a&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 <br />
 
----
+<div align="center">
+<sub><b>🇪🇸</b> &nbsp;<a href="#-español">Ir a la versión en Español</a> &nbsp;·&nbsp; <b>🇬🇧</b> &nbsp;<a href="#-english">Jump to English version</a></sub>
+</div>
 
 <br />
 
-<div align="center">
-<h2>Who We Are</h2>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=3&section=header" width="100%" />
+
+<br />
+
+<h1 id="-español" align="center">🇪🇸 Español</h1>
+
+<div align="center"><sub><i>Scroll down for the English version, or <a href="#-english">click here</a>.</i></sub></div>
+
+<br />
+
+<h2 align="center">Quiénes Somos</h2>
+
+<p align="center" width="100%">
+<table><tr><td width="100%">
 
 LoopDev es una empresa colombiana de desarrollo de software especializada en construir sistemas de alto impacto para empresas privadas, entidades públicas y organizaciones en transformación digital.
 
@@ -49,169 +58,328 @@ No entregamos prototipos. Diseñamos, construimos y mantenemos arquitecturas que
 
 Trabajamos donde la mayoría de proveedores de software se detienen: en la integración con sistemas legados, en el cumplimiento normativo, y en la escalabilidad bajo carga real.
 
+</td></tr></table>
+</p>
+
 <br />
 
----
-
-<br />
-
-<div align="center">
-<h2>What We Build</h2>
-</div>
+<h2 align="center">Qué Construimos</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**Sistemas de misión crítica**
-
-Plataformas que procesan dinero, datos fiscales y operaciones diarias sin margen de error. Diseñadas para auditoría, trazabilidad y cumplimiento normativo colombiano (DIAN, facturación electrónica).
-
+<h3>⚙️ Sistemas de misión crítica</h3>
+<p>Plataformas que procesan dinero, datos fiscales y operaciones diarias sin margen de error. Diseñadas para auditoría, trazabilidad y cumplimiento normativo colombiano (DIAN, facturación electrónica).</p>
 </td>
 <td width="50%" valign="top">
-
-**Infraestructura geoespacial**
-
-SDKs y APIs que transforman datos catastrales y territoriales complejos en herramientas accesibles para desarrolladores, sobre MapLibre, OpenStreetMap y PostGIS.
-
+<h3>🗺️ Infraestructura geoespacial</h3>
+<p>SDKs y APIs que transforman datos catastrales y territoriales complejos en herramientas accesibles para desarrolladores, sobre MapLibre, OpenStreetMap y PostGIS.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**Automatización empresarial**
-
-Eliminamos trabajo manual en procesos contables, tributarios y comerciales mediante integraciones API, workers asíncronos y pipelines de datos confiables.
-
+<h3>🔁 Automatización empresarial</h3>
+<p>Eliminamos trabajo manual en procesos contables, tributarios y comerciales mediante integraciones API, workers asíncronos y pipelines de datos confiables.</p>
 </td>
 <td width="50%" valign="top">
-
-**Plataformas GovTech**
-
-Herramientas para entidades públicas que necesitan modernizar procesos sin sacrificar seguridad, disponibilidad ni control de acceso.
-
+<h3>🏛️ Plataformas GovTech</h3>
+<p>Herramientas para entidades públicas que necesitan modernizar procesos sin sacrificar seguridad, disponibilidad ni control de acceso.</p>
 </td>
 </tr>
 </table>
 
 <br />
 
----
-
-<br />
+<h2 align="center">Servicios Principales</h2>
 
 <div align="center">
-<h2>Core Services</h2>
 
-<table>
-<tr>
-<th align="left">Servicio</th>
-<th align="left">Descripción</th>
-</tr>
-<tr>
-<td>Desarrollo de Software a Medida</td>
-<td>Sistemas diseñados desde cero para necesidades específicas del negocio</td>
-</tr>
-<tr>
-<td>Automatización Empresarial</td>
-<td>Eliminación de procesos manuales mediante integración y orquestación de sistemas</td>
-</tr>
-<tr>
-<td>Inteligencia Artificial</td>
-<td>Modelos y pipelines de IA aplicados a procesos reales de negocio</td>
-</tr>
-<tr>
-<td>Integraciones API</td>
-<td>Conexión de sistemas empresariales, ERPs y pasarelas de pago</td>
-</tr>
-<tr>
-<td>GIS</td>
-<td>Infraestructura geoespacial y cartográfica sobre estándares abiertos</td>
-</tr>
-<tr>
-<td>GovTech</td>
-<td>Plataformas tecnológicas para entidades públicas y territoriales</td>
-</tr>
-<tr>
-<td>Ciberseguridad</td>
-<td>Hardening de infraestructura, auditorías y respuesta a incidentes</td>
-</tr>
-<tr>
-<td>Auditorías Técnicas</td>
-<td>Revisión de arquitectura, código y seguridad de sistemas existentes</td>
-</tr>
-<tr>
-<td>Facturación Electrónica</td>
-<td>Integración con DIAN y pipelines de documentos electrónicos</td>
-</tr>
-<tr>
-<td>SDKs & APIs</td>
-<td>Productos de desarrollador listos para integrarse en terceros</td>
-</tr>
-<tr>
-<td>Sistemas para Fuerza Comercial</td>
-<td>Herramientas de venta en calle integradas con ERPs</td>
-</tr>
-<tr>
-<td>Soluciones Cloud</td>
-<td>Infraestructura desplegada y operada en la nube o en VPS dedicados</td>
-</tr>
-</table>
+| Servicio | Descripción |
+|---|---|
+| **Desarrollo a Medida** | Sistemas diseñados desde cero para necesidades específicas del negocio |
+| **Automatización Empresarial** | Eliminación de procesos manuales mediante integración y orquestación de sistemas |
+| **Inteligencia Artificial** | Modelos y pipelines de IA aplicados a procesos reales de negocio |
+| **Integraciones API** | Conexión de sistemas empresariales, ERPs y pasarelas de pago |
+| **GIS** | Infraestructura geoespacial y cartográfica sobre estándares abiertos |
+| **GovTech** | Plataformas tecnológicas para entidades públicas y territoriales |
+| **Ciberseguridad** | Hardening de infraestructura, auditorías y respuesta a incidentes |
+| **Auditorías Técnicas** | Revisión de arquitectura, código y seguridad de sistemas existentes |
+| **Facturación Electrónica** | Integración con DIAN y pipelines de documentos electrónicos |
+| **SDKs & APIs** | Productos de desarrollador listos para integrarse en terceros |
+| **Fuerza Comercial** | Herramientas de venta en calle integradas con ERPs |
+| **Soluciones Cloud** | Infraestructura desplegada y operada en la nube o en VPS dedicados |
 
 </div>
 
 <br />
 
----
-
-<br />
-
-<div align="center">
-<h2>Products</h2>
-</div>
+<h2 align="center">Productos</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>ContaxSuite</h3>
+<h3>📊 ContaxSuite</h3>
 <p>ERP y suite de gestión para firmas contables colombianas, con integración a Siigo, DIAN y pasarelas de pago.</p>
-<p>
-<img src="https://img.shields.io/badge/Status-Production-1a1a1a?style=flat-square" alt="Production" />
-<img src="https://img.shields.io/badge/Stack-Node.js%20·%20React%20·%20PostgreSQL-1a1a1a?style=flat-square" alt="Stack" />
-</p>
+<img src="https://img.shields.io/badge/Production-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js_·_React_·_PostgreSQL-1a1a1a?style=flat-square" />
 </td>
 <td width="50%" valign="top">
-<h3>LoopGIS SDK</h3>
+<h3>🌍 LoopGIS SDK</h3>
 <p>SDK geográfico para Colombia construido sobre MapLibre y OpenStreetMap, con soporte para datos catastrales.</p>
-<p>
-<img src="https://img.shields.io/badge/Status-Production-1a1a1a?style=flat-square" alt="Production" />
-<img src="https://img.shields.io/badge/Stack-TypeScript%20·%20PostGIS-1a1a1a?style=flat-square" alt="Stack" />
-</p>
+<img src="https://img.shields.io/badge/Production-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript_·_PostGIS-1a1a1a?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>LoopGov</h3>
+<h3>🏛️ LoopGov</h3>
 <p>Plataforma GovTech para alcaldías y entidades públicas que buscan modernizar procesos administrativos.</p>
-<p>
-<img src="https://img.shields.io/badge/Status-In%20Development-2b2b2b?style=flat-square" alt="In development" />
-<img src="https://img.shields.io/badge/Stack-React%20·%20Node.js-1a1a1a?style=flat-square" alt="Stack" />
-</p>
+<img src="https://img.shields.io/badge/In_Development-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/React_·_Node.js-1a1a1a?style=flat-square" />
 </td>
 <td width="50%" valign="top">
-<h3>LoopSales</h3>
+<h3>🧾 LoopSales</h3>
 <p>Sistema para vendedores en calle integrado con SIIGO, pensado para fuerza comercial en movimiento.</p>
-<p>
-<img src="https://img.shields.io/badge/Status-In%20Development-2b2b2b?style=flat-square" alt="In development" />
-<img src="https://img.shields.io/badge/Stack-React%20·%20Node.js-1a1a1a?style=flat-square" alt="Stack" />
-</p>
+<img src="https://img.shields.io/badge/In_Development-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/React_·_Node.js-1a1a1a?style=flat-square" />
 </td>
 </tr>
 </table>
 
 <br />
 
----
+<h2 align="center">Principios de Ingeniería</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🏗️ Arquitectura antes que código**
+<br />
+<sub>Cada sistema empieza con un diseño explícito de límites, contratos y flujos de datos.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔒 Seguridad por defecto**
+<br />
+<sub>Autenticación, cifrado y control de acceso no son features opcionales.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📡 Observabilidad real**
+<br />
+<sub>Si no se puede medir, no se puede operar con confianza.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🧩 Código mantenible**
+<br />
+<sub>Escribimos para el equipo que va a leer este código en dos años.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**⚡ Rendimiento con propósito**
+<br />
+<sub>Optimizamos lo que impacta al usuario, no lo que impacta al ego.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🤖 Automatización primero**
+<br />
+<sub>Todo proceso repetitivo es candidato a eliminarse mediante software.</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+<h3>¿Tu organización necesita software que resista producción?</h3>
+<a href="https://loopdev.lat"><img src="https://img.shields.io/badge/HABLEMOS-loopdev.lat-ffffff?style=for-the-badge&logoColor=black" /></a>
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=3&section=header" width="100%" />
+
+<br />
+
+<h1 id="-english" align="center">🇬🇧 English</h1>
+
+<div align="center"><sub><i>Volver a la versión en Español, <a href="#-español">haz clic aquí</a>.</i></sub></div>
+
+<br />
+
+<h2 align="center">Who We Are</h2>
+
+<p align="center" width="100%">
+<table><tr><td width="100%">
+
+LoopDev is a Colombian software development company specialized in building high-impact systems for private companies, public institutions, and organizations undergoing digital transformation.
+
+We don't ship prototypes. We design, build, and maintain architectures that support real operations: electronic invoicing, tax integrations, geospatial platforms, and mission-critical systems for field sales teams.
+
+We work where most software vendors stop: legacy system integration, regulatory compliance, and scalability under real-world load.
+
+</td></tr></table>
+</p>
+
+<br />
+
+<h2 align="center">What We Build</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ Mission-critical systems</h3>
+<p>Platforms that process money, tax data, and daily operations with zero margin for error. Built for auditability, traceability, and Colombian regulatory compliance (DIAN, e-invoicing).</p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ Geospatial infrastructure</h3>
+<p>SDKs and APIs that turn complex cadastral and territorial data into accessible developer tools, built on MapLibre, OpenStreetMap, and PostGIS.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔁 Business automation</h3>
+<p>We remove manual work from accounting, tax, and sales processes through API integrations, async workers, and reliable data pipelines.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🏛️ GovTech platforms</h3>
+<p>Tools for public institutions that need to modernize processes without compromising security, uptime, or access control.</p>
+</td>
+</tr>
+</table>
+
+<br />
+
+<h2 align="center">Core Services</h2>
+
+<div align="center">
+
+| Service | Description |
+|---|---|
+| **Custom Software Development** | Systems designed from scratch for specific business needs |
+| **Business Automation** | Eliminating manual processes through system integration and orchestration |
+| **Artificial Intelligence** | AI models and pipelines applied to real business processes |
+| **API Integrations** | Connecting enterprise systems, ERPs, and payment gateways |
+| **GIS** | Geospatial and cartographic infrastructure built on open standards |
+| **GovTech** | Technology platforms for public and territorial institutions |
+| **Cybersecurity** | Infrastructure hardening, audits, and incident response |
+| **Technical Audits** | Architecture, code, and security review of existing systems |
+| **Electronic Invoicing** | DIAN integration and electronic document pipelines |
+| **SDKs & APIs** | Developer products ready for third-party integration |
+| **Field Sales Systems** | Street-sales tools integrated with ERPs |
+| **Cloud Solutions** | Infrastructure deployed and operated on cloud or dedicated VPS |
+
+</div>
+
+<br />
+
+<h2 align="center">Products</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>📊 ContaxSuite</h3>
+<p>ERP and management suite for Colombian accounting firms, integrated with Siigo, DIAN, and payment gateways.</p>
+<img src="https://img.shields.io/badge/Production-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js_·_React_·_PostgreSQL-1a1a1a?style=flat-square" />
+</td>
+<td width="50%" valign="top">
+<h3>🌍 LoopGIS SDK</h3>
+<p>Geospatial SDK for Colombia built on MapLibre and OpenStreetMap, with support for cadastral data.</p>
+<img src="https://img.shields.io/badge/Production-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript_·_PostGIS-1a1a1a?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏛️ LoopGov</h3>
+<p>GovTech platform for municipalities and public institutions looking to modernize administrative processes.</p>
+<img src="https://img.shields.io/badge/In_Development-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/React_·_Node.js-1a1a1a?style=flat-square" />
+</td>
+<td width="50%" valign="top">
+<h3>🧾 LoopSales</h3>
+<p>Street-sales system integrated with SIIGO, built for field sales teams on the move.</p>
+<img src="https://img.shields.io/badge/In_Development-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/React_·_Node.js-1a1a1a?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br />
+
+<h2 align="center">Engineering Principles</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🏗️ Architecture before code**
+<br />
+<sub>Every system starts with an explicit design of boundaries, contracts, and data flows.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔒 Security by default**
+<br />
+<sub>Authentication, encryption, and access control are not optional features.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📡 Real observability**
+<br />
+<sub>If it can't be measured, it can't be operated with confidence.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🧩 Maintainable code**
+<br />
+<sub>We write for the team that will read this code two years from now.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**⚡ Performance with purpose**
+<br />
+<sub>We optimize what impacts the user, not what impacts the ego.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🤖 Automation first**
+<br />
+<sub>Every repetitive process is a candidate for elimination through software.</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+<h3>Need software that survives production?</h3>
+<a href="https://loopdev.lat"><img src="https://img.shields.io/badge/LET'S_TALK-loopdev.lat-ffffff?style=for-the-badge&logoColor=black" /></a>
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=3&section=header" width="100%" />
 
 <br />
 
@@ -277,94 +445,7 @@ Herramientas para entidades públicas que necesitan modernizar procesos sin sacr
 
 <br />
 
----
-
-<br />
-
-<div align="center">
-<h2>How We Work</h2>
-
-<table>
-<tr>
-<td align="center" width="20%"><b>01</b><br />Discovery</td>
-<td align="center" width="20%"><b>02</b><br />Architecture</td>
-<td align="center" width="20%"><b>03</b><br />Build</td>
-<td align="center" width="20%"><b>04</b><br />Hardening</td>
-<td align="center" width="20%"><b>05</b><br />Operate</td>
-</tr>
-<tr>
-<td valign="top">Entendemos el proceso real del negocio antes de escribir una línea de código.</td>
-<td valign="top">Diseñamos el sistema para el problema, no al revés.</td>
-<td valign="top">Iteramos en ciclos cortos con entregables verificables.</td>
-<td valign="top">Seguridad, pruebas de carga y auditoría antes de producción.</td>
-<td valign="top">Monitoreo, mantenimiento y evolución continua del sistema.</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-<h2>Engineering Principles</h2>
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Arquitectura antes que código**
-
-Cada sistema empieza con un diseño explícito de límites, contratos y flujos de datos.
-
-</td>
-<td width="33%" valign="top">
-
-**Seguridad por defecto**
-
-Autenticación, cifrado y control de acceso no son features opcionales.
-
-</td>
-<td width="33%" valign="top">
-
-**Observabilidad real**
-
-Si no se puede medir, no se puede operar con confianza.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**Código que se puede mantener**
-
-Escribimos para el equipo que va a leer este código en dos años, no solo para que funcione hoy.
-
-</td>
-<td width="33%" valign="top">
-
-**Rendimiento con propósito**
-
-Optimizamos lo que impacta al usuario, no lo que impacta al ego.
-
-</td>
-<td width="33%" valign="top">
-
-**Automatización primero**
-
-Todo proceso repetitivo es un candidato a eliminarse mediante software.
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=3&section=header" width="100%" />
 
 <br />
 
@@ -374,7 +455,7 @@ Todo proceso repetitivo es un candidato a eliminarse mediante software.
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=loopdevco&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loopdev&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loopdevco&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
 
 <br /><br />
 
@@ -388,36 +469,14 @@ Todo proceso repetitivo es un candidato a eliminarse mediante software.
 
 <!--
 <div align="center">
-<img src="https://raw.githubusercontent.com/loopdev/loopdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/loopdevco/loopdevco/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 -->
 
 <br />
 
----
-
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=footer&text=loopdev.lat&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
-
-<h2>Let's Build Something That Lasts</h2>
-
-<p>Si tu organización necesita software que resista producción, hablemos.</p>
-
-<br />
-
-<a href="https://loopdev.lat">
-  <img src="https://img.shields.io/badge/Visit-Website-ffffff?style=for-the-badge&logoColor=black" alt="Website" />
-</a>
-<a href="mailto:hola@loopdev.lat">
-  <img src="https://img.shields.io/badge/Send-Email-ffffff?style=for-the-badge&logoColor=black" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/company/loopdev">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-ffffff?style=for-the-badge&logoColor=black" alt="LinkedIn" />
-</a>
-
-<br /><br />
-
-<sub>© 2026 LoopDev — Colombia</sub>
-
+<sub>© 2026 LoopDev — Bogotá, Colombia</sub>
 </div>
